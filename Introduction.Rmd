@@ -1,0 +1,8 @@
+---
+title: "Introduction"
+output: html_notebook
+---
+
+To perform a thorough analytical benefit risk evaluation of any therapeutic product, it is important to know the medical history (such as dates for symptom onset, diagnosis, treatment, and clinical assessments and outcomes) of the patients who use the product. The duration between date of diagnosis and date of treatment, in other words the time to treatment, is a key piece of medical information which is often highly correlated with clinical outcomes. In this work we provide an overview of statistical issues in analyzing the impact of time to treatment on the therapy-attributable clinical outcomes.
+
+Illustration of potential issues with time to treatment analysis. A and B have the same symptom onset date, date of diagnoses, and date of deaths, but the treatments are performed on different dates. A was assessed as alive while B was classified as dead. How much of A’s survival can be attributed to the fact that A received a treatment earlier than B?
