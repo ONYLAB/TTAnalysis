@@ -1,8 +1,4 @@
 # TTAnalysis
----
-title: "About"
-output: html_notebook
----
 
 Rscripts used to make this R Shiny web application are available on [Github](https://github.com/ONYLAB/TTAnalysis).
 
